@@ -1,0 +1,295 @@
+2021-09-10 20:32:31,779 DEBUG :: random text
+2021-09-10 21:16:11,009 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:16:12,227 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:16:29,188 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:16:29,513 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:16:43,814 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:16:44,353 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:17:53,165 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:17:53,493 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:19:17,867 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:19:19,152 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:21:31,486 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:21:31,832 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:21:45,603 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:21:45,944 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:22:37,119 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:22:37,494 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:23:21,036 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:23:21,362 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:24:18,924 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:24:19,291 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:25:43,012 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:25:43,434 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:26:51,726 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:26:52,841 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-10 21:28:09,804 DEBUG :: Starting new HTTPS connection (1): fapi.binance.com:443
+2021-09-10 21:28:10,176 DEBUG :: https://fapi.binance.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-20 16:14:02,122 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-20 16:14:02,126 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-20 16:14:03,148 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-20 16:14:54,773 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-20 16:14:54,777 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-20 16:14:55,604 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/ticker/bookTicker?symbol=BTCUSDT HTTP/1.1" 200 None
+2021-09-20 16:15:39,742 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-20 16:15:39,746 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-20 16:15:40,861 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000 HTTP/1.1" 200 None
+2021-09-20 16:17:42,769 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-20 16:17:42,773 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-20 16:17:43,900 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000 HTTP/1.1" 200 None
+2021-09-22 14:37:23,967 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 14:37:23,972 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 14:37:25,164 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/klines?symbol=BTCUSDT&interval=1h&limit=1000 HTTP/1.1" 200 None
+2021-09-22 15:19:28,454 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:19:28,459 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:19:29,329 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632320368454&signature=21403dcd540f11a36b77e8286d4ebb953a60e8d02ad18b236622ecb887d7768f HTTP/1.1" 200 None
+2021-09-22 15:22:22,845 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:22:22,849 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:22:23,733 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632320542845&signature=147183f4d79b57e73a52d7c634d7f38fd7b3941378c16baccfd59b5ad1c2c1d2 HTTP/1.1" 200 None
+2021-09-22 15:23:50,678 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:23:50,681 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:23:51,590 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632320630678&signature=f655756a47a3870f77b0d895e1a4cc73393efe36910150cbc7b1a80205f2a538 HTTP/1.1" 200 None
+2021-09-22 15:24:24,464 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:24:24,467 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:24:25,366 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632320664464&signature=079f7af728d0f4e67482c53406811f83784fb2812fd5baa06a70dec8ccd438f1 HTTP/1.1" 200 None
+2021-09-22 15:37:05,725 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:37:05,729 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:37:06,665 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632321425726&signature=6eae0d38e807a6d2f2dd7258e36efdaac9c0c37989e181a4af60f7cad2b818f2 HTTP/1.1" 200 None
+2021-09-22 15:37:06,669 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:37:07,587 DEBUG :: https://testnet.binancefuture.com:443 "POST /fapi/v1/order?timestamp=1632321426668&symbol=BTCUSDT&side=BUY&quantity=0.01&type=LIMIT&price=42450&timeInForce=GTC&signature=8f4c97103a075679aa561b2822d96a209ec5e3221e1d3a26bc95571180054398 HTTP/1.1" 200 None
+2021-09-22 15:39:34,631 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:39:34,634 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:39:35,523 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632321574631&signature=9864ee93d248d1cec3bd4ad4630a56cc0dad345fa93934580ca59a77e25ef7a6 HTTP/1.1" 200 None
+2021-09-22 15:39:35,529 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:39:36,382 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1632321575527&symbol=BTCUSDT&orderId=2822417896&signature=ba38795717a6ba007f72cdbd3c205a933280e0e410e51ee7d3c83bd164ca811c HTTP/1.1" 200 None
+2021-09-22 15:40:23,499 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:40:23,503 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:40:26,749 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/order?timestamp=1632321623499&symbol=BTCUSDT&orderId=2822417896&signature=7157a0ff54a91400406c36791080fff18c4061476c2e8596a099e7383878c015 HTTP/1.1" 200 None
+2021-09-22 15:41:33,930 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:41:33,934 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:41:34,844 DEBUG :: https://testnet.binancefuture.com:443 "DELETE /fapi/v1/order?timestamp=1632321693930&symbol=BTCUSDT&orderId=2822417896&signature=0476a1b541b6ef38c2802437218e19d55d2d3e8ef405ce757450f48a30d563d0 HTTP/1.1" 200 None
+2021-09-22 15:57:28,885 ERROR :: An error occured during Binance connection {scheme mss is invalid}
+2021-09-22 15:57:28,885 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:57:28,885 WARNING :: Binance connection has been closed
+2021-09-22 15:57:28,889 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 15:57:29,738 DEBUG :: https://testnet.binancefuture.com:443 "DELETE /fapi/v1/order?timestamp=1632322648885&symbol=BTCUSDT&orderId=2822417896&signature=dba8bd3db9e16542f650485c7eab2fa63bb5d6f516737d8f9efb16d8539054b3 HTTP/1.1" 400 42
+2021-09-22 15:57:29,739 ERROR :: Error while making DELETE request to fapi/v1/order: {'code': -2011, 'msg': 'Unknown order sent.'} (400 error code)
+2021-09-22 15:57:58,736 ERROR :: An error occured during Binance connection {scheme mss is invalid}
+2021-09-22 15:57:58,736 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 15:57:58,736 WARNING :: Binance connection has been closed
+2021-09-22 16:01:27,402 ERROR :: An error occured during Binance connection {scheme ms is invalid}
+2021-09-22 16:01:27,402 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 16:01:27,403 WARNING :: Binance connection has been closed
+2021-09-22 16:03:09,665 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 16:03:10,845 INFO :: Binance connection has been established
+2021-09-22 16:55:15,055 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 16:55:16,251 INFO :: Binance connection has been established
+2021-09-22 16:55:48,347 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 16:55:49,540 INFO :: Binance connection has been established
+2021-09-22 17:02:14,242 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 17:02:15,481 INFO :: Binance connection has been established
+2021-09-22 17:02:53,038 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 17:02:54,242 INFO :: Binance connection has been established
+2021-09-22 18:47:00,350 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 18:47:01,271 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-22 18:47:01,284 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-22 18:47:02,105 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632332821281&signature=f61a2ea5fa8b198d5512ba8bf6aba4fcfcc3d3544a9978549c71ac3aa27a542e HTTP/1.1" 200 None
+2021-09-22 18:47:02,109 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-22 18:47:03,267 INFO :: Binance connection has been established
+2021-09-23 12:12:14,657 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:12:15,169 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-23 12:12:15,192 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:12:15,572 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632395535185&signature=ac17fa938ed7f599cfdfb8b0631213f93b3aa781541a8f5f2842a192dea59d3e HTTP/1.1" 200 None
+2021-09-23 12:12:15,582 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-23 12:12:17,476 INFO :: Binance connection has been established
+2021-09-23 12:13:16,160 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:13:17,080 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-23 12:13:17,096 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:13:17,961 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632395597092&signature=8437d37b6f3b92b7d60048737cb834dcf6c0239a600d5fd40055fbb997e96401 HTTP/1.1" 200 None
+2021-09-23 12:13:18,223 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-23 12:13:20,182 INFO :: Binance connection has been established
+2021-09-23 12:18:57,495 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:18:57,870 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-23 12:18:57,891 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-23 12:18:58,225 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632395937887&signature=92e0840d59c0fcca18afbca4d0888d6143af130a644fc42ffb7fb8183d6464d0 HTTP/1.1" 200 None
+2021-09-23 12:18:58,232 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-23 12:18:59,465 INFO :: Binance connection has been established
+2021-09-24 15:02:47,012 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:02:47,931 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-24 15:02:47,938 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:02:48,796 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632492167936&signature=d8037a14fb26a1bdfbfc90b99947b2aa40438eacc90cd5cf8696746a99f143f4 HTTP/1.1" 200 None
+2021-09-24 15:02:48,799 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-24 15:02:50,211 INFO :: Binance connection has been established
+2021-09-24 15:05:42,320 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:05:43,254 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-24 15:05:43,264 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:05:43,616 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632492343260&signature=8a40ac148d475796b2f44a7c295359fb5771f56a0c08c1f6843d6d98491f938c HTTP/1.1" 200 None
+2021-09-24 15:05:43,619 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-24 15:05:46,409 INFO :: Binance connection has been established
+2021-09-24 15:08:02,066 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:08:02,439 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-24 15:08:02,446 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:08:03,294 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632492482444&signature=0a0fe1de20ab15f9d380710e88b27beb84e0aa0790b052f5657a009542915468 HTTP/1.1" 200 None
+2021-09-24 15:08:03,297 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-24 15:08:04,444 INFO :: Binance connection has been established
+2021-09-24 15:15:21,277 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:15:22,148 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-24 15:15:22,154 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:15:22,992 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632492922152&signature=8e389fe8cac38259b2882f5ece72bbcf8f3b96ac6b1ed12842e07e82362c2ec0 HTTP/1.1" 200 None
+2021-09-24 15:15:22,995 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-24 15:15:24,204 INFO :: Binance connection has been established
+2021-09-24 15:17:28,490 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:17:29,401 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-24 15:17:29,407 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-24 15:17:29,743 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632493049405&signature=5fc6bba57c426fa91f6ac2b6a731dfa5a5d94898f24db00628dc9b7e38f51ae6 HTTP/1.1" 200 None
+2021-09-24 15:17:29,746 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-24 15:17:30,920 INFO :: Binance connection has been established
+2021-09-25 11:12:14,842 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 11:12:15,927 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-25 11:12:15,960 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 11:12:17,953 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632564735953&signature=310e971673cfcd49df63aeb12f5c8bf158ad689386cfc3237f08f809ef44d386 HTTP/1.1" 200 None
+2021-09-25 11:12:17,960 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-25 11:12:19,210 INFO :: Binance connection has been established
+2021-09-25 11:12:19,599 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,618 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,619 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,621 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,623 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,624 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,634 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:19,998 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,000 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,025 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,104 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,106 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,283 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,287 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:20,290 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,177 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,258 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,463 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,464 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,571 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,765 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,766 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,772 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:21,772 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,087 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,089 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,091 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,094 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,096 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,102 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,105 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,106 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,109 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,110 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,148 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,150 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,250 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,251 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,253 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,254 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,255 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,392 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,595 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,598 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,601 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:22,604 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,318 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,320 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,345 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,346 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,555 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,732 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,733 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:23,803 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: can only concatenate str (not "float") to str
+2021-09-25 11:12:24,920 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: main thread is not in main loop
+2021-09-25 11:12:26,034 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001A5123047F0>>: main thread is not in main loop
+2021-09-25 12:23:50,542 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 12:23:51,626 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-25 12:23:51,639 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 12:23:53,046 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632569031635&signature=37b63c2a444978c202af4d9a447cdf2e0b51d8ad3f501ee0051094e05dbb2720 HTTP/1.1" 200 None
+2021-09-25 12:23:53,305 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-25 12:23:54,581 INFO :: Binance connection has been established
+2021-09-25 12:23:55,368 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:55,371 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:55,373 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:55,467 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:55,468 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:55,647 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,114 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,269 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,270 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,293 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,363 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,405 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,407 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:56,408 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,547 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,554 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,555 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,556 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,556 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,557 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,558 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,558 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,559 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,571 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,709 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,765 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,767 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,843 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,844 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,873 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,874 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,897 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,897 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,920 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,921 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,949 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,950 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,950 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,977 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:57,978 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,037 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,038 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,039 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,039 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,040 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,060 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,061 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,061 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,086 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,087 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:58,134 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,495 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,496 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,540 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,541 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,542 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,542 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,543 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,544 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,545 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,546 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,547 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,548 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,549 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,560 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,648 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,649 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,650 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,742 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,743 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,744 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,744 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,775 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,776 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:23:59,798 ERROR :: error from callback <bound method BinanceFuturesClient._onMessage of <connectors.binanceFutures.BinanceFuturesClient object at 0x000001ECE5180CA0>>: unsupported operand type(s) for +: 'float' and 'str'
+2021-09-25 12:24:59,015 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 12:24:59,429 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/exchangeInfo HTTP/1.1" 200 None
+2021-09-25 12:24:59,452 DEBUG :: Starting new HTTPS connection (1): testnet.binancefuture.com:443
+2021-09-25 12:25:00,208 DEBUG :: https://testnet.binancefuture.com:443 "GET /fapi/v1/account?timestamp=1632569099445&signature=ab2245ada2324dfdf6076d97f73e8a2b96a7b7ad39ac2f431b77f08da51fce23 HTTP/1.1" 200 None
+2021-09-25 12:25:00,218 INFO :: Binance Futures Client Successfully Initialized.
+2021-09-25 12:25:01,632 INFO :: Binance connection has been established
