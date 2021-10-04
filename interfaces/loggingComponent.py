@@ -8,7 +8,7 @@ class Logging(tk.Frame):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.loggingText = tk.Text(self, height=10, width=16, state=tk.DISABLED, bg=BG_COLOR, fg=FG_COLOR_2, font=GLOBAL_FONT) # Text disabled
+        self.loggingText = tk.Text(self, height=40, width=110, state=tk.DISABLED, bg=BG_COLOR, fg=FG_COLOR_2, font=GLOBAL_FONT) # Text disabled
         self.loggingText.pack(side=tk.TOP) # place widget in the frame
 
     def addLog(self, msg: str):

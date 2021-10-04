@@ -58,7 +58,7 @@ class BinanceFuturesClient:
 
         if exchangeInfo is not None:
             for contract_data in exchangeInfo["symbols"]:
-                contracts[contract_data["pair"]] = Contract(contract_data)
+                contracts[contract_data["symbol"]] = Contract(contract_data)
         return contracts
 
     def getHistoricalCandles(self, contract: Contract, interval: str) -> typing.List[Candle]:
@@ -229,7 +229,8 @@ class BinanceFuturesClient:
                     self.prices[symbol]["bid"] = float(data["b"])
                     self.prices[symbol]["ask"] = float(data["a"])
 
-                self.logs.append(symbol + " " + str(self.prices[symbol]["bid"]) + " / " + str(self.prices[symbol]["ask"]))
+                if symbol == "LTCUSDT":
+                    self.logs.append(symbol + " " + str(self.prices[symbol]["bid"]) + " / " + str(self.prices[symbol]["ask"]))
 
     def subscribeChannel(self, contracts: typing.List[Contract], channel: str):
         data = dict()
